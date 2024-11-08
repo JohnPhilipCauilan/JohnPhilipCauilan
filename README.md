@@ -1,1 +1,12 @@
-<p align="center"> 👋 **Hey there!** I'm <b>@JohnPhilipCauilan</b> </p> <p align="center"> 👀 Passionate **gamer** and tech **adventurer**—exploring every world, pixel, and code line. </p> <p align="center"> 🌱 Forever curious, forever learning—whatever **sparks** my interest gets my full attention. </p> <p align="center"> 📫 Wanna chat, collab, or share cool ideas? Hit me up: **philipcauilan223@gmail.com** </p> <p align="center"> 😄 Pronouns: **He/Him** </p> <p align="center"> ⚡ Fun fact: I’m still on a quest to uncover the world’s most **mind-blowing** fun fact. Got one? Let's hear it! </p>
+<p align="center"> 🎮Hey there!🎮 I'm @JohnPhilipCauilan </p> <p align="center"> <em>I.T. student by day, gamer by night (or maybe both at once?)</em> </p>
+👀 What interests me? Everything about gaming and tech—immersing myself in virtual worlds, leveling up my skills, and exploring what makes digital magic come to life.
+
+🌱 Always learning: I follow my curiosity wherever it leads, jumping into any topic that lights a spark!
+
+📫 Get in touch: Feel free to reach out at philipcauilan223@gmail.com — I’m always down for a great chat, brainstorm session, or even teaming up in a game!
+
+😄 Pronouns: He/Him
+
+⚡ Fun Fact: I'm still on a quest to uncover my perfect fun fact. Suggestions? Bonus points if it involves gaming, tech, or just good laughs!
+
+<p align="center"> Thanks for stopping by! ✨ </p>
