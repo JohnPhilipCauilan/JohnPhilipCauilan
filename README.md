@@ -1,4 +1,4 @@
-<p align="center"> 👋 **Hello there!** I’m **@JohnPhilipCauilan** </p> <p align="center"> <i>Tech explorer, gaming enthusiast, and lifelong learner.</i> </p>
+<p align="center"> 👋 Hi there! I’m @JohnPhilipCauilan </p> <p align="center"> <i>Tech explorer, gaming enthusiast, and lifelong learner.</i> </p>
 👀 What I’m Into:
 
 Getting lost in games, finding new worlds, and leveling up—both in and out of the digital sphere.
